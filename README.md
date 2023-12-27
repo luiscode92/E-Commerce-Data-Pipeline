@@ -1,8 +1,6 @@
 # E-Commerce Data Pipeline
 
-Hi! this is the first of several projects we're going to be working on during this course.
-
-You will be expected to finish this on your own, but you can use the available channels on Discord to ask questions and help others. Please read the entire notebook before starting, this will give you a better idea of what you need to accomplish.
+Hi! This project was developed at AnyoneAI(https://anyoneai.com/) where you can learn machine learning through real projects.
 
 ## The Business problem
 
